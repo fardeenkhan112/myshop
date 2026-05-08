@@ -1,8 +1,8 @@
 {
+  "homepage": "https://fardeenkhan112.github.io/myshop",
   "name": "myshop",
   "version": "0.1.0",
   "private": true,
-"homepage": "/myshop/",
   "dependencies": {
     "@testing-library/dom": "^10.4.1",
     "@testing-library/jest-dom": "^6.9.1",
